@@ -1,0 +1,15 @@
+D:\c#\ElevatorSystem-master\ElevatorSystem\bin\Debug\ElevatorSystem.exe.config
+D:\c#\ElevatorSystem-master\ElevatorSystem\bin\Debug\ElevatorSystem.exe
+D:\c#\ElevatorSystem-master\ElevatorSystem\bin\Debug\ElevatorSystem.pdb
+D:\c#\ElevatorSystem-master\ElevatorSystem\obj\Debug\ElevatorSystem.csprojAssemblyReference.cache
+D:\c#\ElevatorSystem-master\ElevatorSystem\obj\Debug\ElevatorSystem.CreatePerson.resources
+D:\c#\ElevatorSystem-master\ElevatorSystem\obj\Debug\ElevatorSystem.DataInput.resources
+D:\c#\ElevatorSystem-master\ElevatorSystem\obj\Debug\ElevatorSystem.ExitData.resources
+D:\c#\ElevatorSystem-master\ElevatorSystem\obj\Debug\ElevatorSystem.LiftInformation.resources
+D:\c#\ElevatorSystem-master\ElevatorSystem\obj\Debug\ElevatorSystem.MainForm.resources
+D:\c#\ElevatorSystem-master\ElevatorSystem\obj\Debug\ElevatorSystem.PersonInformation.resources
+D:\c#\ElevatorSystem-master\ElevatorSystem\obj\Debug\ElevatorSystem.Properties.Resources.resources
+D:\c#\ElevatorSystem-master\ElevatorSystem\obj\Debug\ElevatorSystem.csproj.GenerateResource.cache
+D:\c#\ElevatorSystem-master\ElevatorSystem\obj\Debug\ElevatorSystem.csproj.CoreCompileInputs.cache
+D:\c#\ElevatorSystem-master\ElevatorSystem\obj\Debug\ElevatorSystem.exe
+D:\c#\ElevatorSystem-master\ElevatorSystem\obj\Debug\ElevatorSystem.pdb
